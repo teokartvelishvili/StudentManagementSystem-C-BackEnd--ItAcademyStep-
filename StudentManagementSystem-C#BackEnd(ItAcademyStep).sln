@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentManagementSystem-C#BackEnd(ItAcademyStep)", "StudentManagementSystem-C#BackEnd(ItAcademyStep)\StudentManagementSystem-C#BackEnd(ItAcademyStep).csproj", "{05D2428B-CA68-4273-AE75-58AA72DA3CEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05D2428B-CA68-4273-AE75-58AA72DA3CEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05D2428B-CA68-4273-AE75-58AA72DA3CEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05D2428B-CA68-4273-AE75-58AA72DA3CEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05D2428B-CA68-4273-AE75-58AA72DA3CEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4365EE58-A776-4175-B005-4656BED54112}
+	EndGlobalSection
+EndGlobal
